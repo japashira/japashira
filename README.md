@@ -2,7 +2,7 @@
 ##
 - 👨‍🎓 Cursando 2° Semestre de Análise e Desenvolvimento de Sistemas na FIAP ...
 - 💻 Atualmente estou aprendendo mais sobre Python, Java, JavaScript, TypeScript, HTML, CSS, SQL...
-- 🔎 Atualmente estou em busca de um Estágio ou Vaga Junior como DEV
+- 🔎 Atualmente estou em busca de um Estágio como DEV
 - 📫 Contato: eduardorshiraga@gmail.com
 
 <div>
