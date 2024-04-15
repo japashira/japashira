@@ -18,7 +18,7 @@
   <img align="center" alt="Japa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Japa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Japa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
-  <img align="right" alt="Valo-GIF" height="180" src="https://www.icegif.com/wp-content/uploads/2023/04/icegif-662.gif" />
+  <img align="right" alt="Valo-GIF" height="180" src="https://i.gifer.com/origin/8c/8cbb992362c4420ef249a0bf3d82773c_w200.gif" />
 </div>
 
 ##
