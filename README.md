@@ -1,7 +1,5 @@
 ### Salvee! Eu sou o Eduardo Shiraga, mais conhecido como Japa 👋
-
 ##
-
 - 👨‍🎓 Cursando 2° Semestre de Análise e Desenvolvimento de Sistemas na FIAP ...
 - 💻 Atualmente estou aprendendo mais sobre Python, Java, JavaScript, TypeScript, HTML, CSS, SQL...
 - 🔎 Atualmente estou em busca de um Estágio ou Vaga Junior como DEV
